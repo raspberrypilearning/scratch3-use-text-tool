@@ -1,59 +1,24 @@
-## Introduction
+Click on the **Fill** colour chooser and select the first colour that you want for your text:
+![Show Fill colour](images/from-me-fill-colour.png){:width="150px"}
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+Select the **Text** tool:
+![Show Text tool](images/from-me-text-tool.png){:width="150px"}
 
-### What you will make
+Click on the Paint editor and start typing.
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+Click on the drop-down menu and select the font that you want:
+![Show Font](images/from-me-text-font.png){:width="300px"}
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+Click on the **Select (Arrow)** tool and select your text. Drag the corner handles to resize your text:
+![Show Arrow tool and resize handles](images/from-me-arrow-resize.png){:width="300px"}
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+Do you want to change the **Fill** colour? Select the **Fill (Bucket)** tool and hover over your text. It will automatically change colour. Click on the text to make the change:
+![Show Fill (bucket) tool](images/from-me-fill-bucket.png){:width="150px"}
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+If you want each word in your message to be a different colour, size, and font, then follow the process above for each word in your message.
 
-+ A computer or tablet capable of running Scratch 3
+Position your text and/or group of words with the crosshair in the centre of the Paint editor:
+![Show crosshair](images/from-me-paint-editor-centre.png){:width="400px"}
 
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+To layer your words, use the **Forward** and **Backward** tools:
+![Show forward/backward](images/from-me-paint-editor-forward-backward.png){:width="400px"}

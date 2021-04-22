@@ -1,4 +1,4 @@
-Click on the **Fill** colour chooser and select the first colour that you want for your text: ![The Fill colour menu showing sliders to control color, saturation and brightness.](images/from-me-fill-colour.png){:width="150px"}
+Clique sur le **Remplissage** et sélectionne la première couleur que tu souhaites pour ton texte : ![The Fill colour menu showing sliders to control color, saturation and brightness.](images/from-me-fill-colour.png){:width="150px"}
 
 Select the **Text** tool: ![The Text tool.](images/from-me-text-tool.png){:width="150px"}
 

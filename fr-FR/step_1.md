@@ -1,17 +1,17 @@
-Clique sur le **Remplissage** et sélectionne la première couleur que tu souhaites pour ton texte : ![The Fill colour menu showing sliders to control color, saturation and brightness.](images/from-me-fill-colour.png){:width="150px"}
+Clique sur le sélecteur de couleur **Remplissage** et sélectionne la première couleur que tu souhaites pour ton texte : ![The Fill colour menu showing sliders to control color, saturation and brightness.](images/from-me-fill-colour.png){:width="150px"}
 
-Select the **Text** tool: ![The Text tool.](images/from-me-text-tool.png){:width="150px"}
+Sélectionne l'outil **Texte** : ![The Text tool.](images/from-me-text-tool.png){:width="150px"}
 
-Click on the Paint editor and start typing.
+Clique sur l'éditeur de peinture et commence à taper.
 
-Click on the drop-down menu and select the font that you want: ![The Font drop down menu showing the fonts available to use within Scratch.](images/from-me-text-font.png){:width="300px"}
+Clique sur le menu déroulant et sélectionne la police souhaitée : ![The Font drop down menu showing the fonts available to use within Scratch.](images/from-me-text-font.png){:width="300px"}
 
-Click on the **Select (Arrow)** tool and select your text. Drag the corner handles to resize your text: ![The Select (Arrow) tool and resize handles.](images/from-me-arrow-resize.png){:width="300px"}
+Clique sur l'outil **Sélectionner (Flèche)** et sélectionne ton texte. Fais glisser les poignées pour redimensionner ton texte : ![The Select (Arrow) tool and resize handles.](images/from-me-arrow-resize.png){:width="300px"}
 
-Do you want to change the **Fill** colour? Select the **Fill (Bucket)** tool and hover over your text. It will automatically change colour. Click on the text to make the change: ![The Fill (Bucket) tool.](images/from-me-fill-bucket.png){:width="150px"}
+Tu veux changer la couleur de **Remplissage** ? Sélectionne l'outil **Remplissage (Sceau)** et passe la souris sur ton texte. Il changera automatiquement de couleur. Clique sur le texte pour effectuer la modification : ![The Fill (Bucket) tool.](images/from-me-fill-bucket.png){:width="150px"}
 
-If you want each word in your message to be a different colour, size, and font, then follow the process above for each word in your message.
+Si tu souhaites que chaque mot de ton message ait une couleur, une taille et une police différentes, suis la procédure ci-dessus pour chaque mot de ton message.
 
-Position your text and/or group of words with the crosshair in the centre of the Paint editor: ![The crosshair.](images/from-me-paint-editor-centre.png){:width="400px"}
+Positionne ton texte et/ou le groupe de mots avec le réticule au centre de l'éditeur de peinture : ![The crosshair.](images/from-me-paint-editor-centre.png){:width="400px"}
 
-To layer your words, use the **Forward** and **Backward** tools: ![The Forward and Backward tools.](images/from-me-paint-editor-forward-backward.png){:width="400px"}
+Pour superposer tes mots, utilise les outils **Avancer** et **Reculer** : ![The Forward and Backward tools.](images/from-me-paint-editor-forward-backward.png){:width="400px"}

@@ -1,5 +1,5 @@
 Click on the **Fill** colour chooser and select the first colour that you want for your text:
-![The Fill colour menu showing sliders to control color, saturation and brightness.](images/from-me-fill-colour.png){:width="150px"}
+![The Fill colour menu showing sliders to control Color, Saturation, and Brightness.](images/from-me-fill-colour.png){:width="150px"}
 
 Select the **Text** tool:
 ![The Text tool.](images/from-me-text-tool.png){:width="150px"}
@@ -7,7 +7,7 @@ Select the **Text** tool:
 Click on the Paint editor and start typing.
 
 Click on the drop-down menu and select the font that you want:
-![The Font drop down menu showing the fonts available to use within Scratch.](images/from-me-text-font.png){:width="300px"}
+![The Font drop-down menu showing the fonts available to use within Scratch.](images/from-me-text-font.png){:width="300px"}
 
 Click on the **Select (Arrow)** tool and select your text. Drag the corner handles to resize your text:
 ![The Select (Arrow) tool and resize handles.](images/from-me-arrow-resize.png){:width="300px"}

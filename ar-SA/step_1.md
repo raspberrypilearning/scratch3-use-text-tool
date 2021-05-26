@@ -12,6 +12,6 @@
 
 إذا كنت تريد أن تكون كل كلمة في رسالتك بلون وحجم وخط مختلف ، فاتبع العملية المذكورة أعلاه لكل كلمة في رسالتك.
 
-Position your text and/or group of words with the crosshair in the centre of the Paint editor: ![The crosshair.](images/from-me-paint-editor-centre.png){:width="400px"}
+ضع النص و / أو مجموعة الكلمات التي بها علامة التقاطع في وسط محرر الرسام: ![The crosshair.](images/from-me-paint-editor-centre.png){: width = "400px"}
 
-To layer your words, use the **Forward** and **Backward** tools: ![The Forward and Backward tools.](images/from-me-paint-editor-forward-backward.png){:width="400px"}
+لترتيب كلماتك ، استخدم أدوات **الى الامام ** و **الى الوراء**: ![The Forward and Backward tools.](images/from-me-paint-editor-forward-backward.png){: width = "400px"}

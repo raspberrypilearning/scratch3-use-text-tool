@@ -2,16 +2,16 @@ Clique no seletor de cor **Preencher** e selecione a primeira cor que deseja par
 
 Selecione a ferramenta de **Texto**: ![The Text tool.](images/from-me-text-tool.png){:width="150px"}
 
-Click on the Paint editor and start typing.
+Clique no editor Paint e comece a digitar.
 
-Click on the drop-down menu and select the font that you want: ![The Font drop down menu showing the fonts available to use within Scratch.](images/from-me-text-font.png){:width="300px"}
+Clique no menu suspenso e selecione a letra que deseja: ![The Font drop down menu showing the fonts available to use within Scratch.](images/from-me-text-font.png){:width="300px"}
 
-Click on the **Select (Arrow)** tool and select your text. Drag the corner handles to resize your text: ![The Select (Arrow) tool and resize handles.](images/from-me-arrow-resize.png){:width="300px"}
+Clique na ferramenta **Selecionar (Seta)** e selecione seu texto. Arraste os cantos da caixa para redimensionar seu texto: ![The Select (Arrow) tool and resize handles.](images/from-me-arrow-resize.png){:width="300px"}
 
-Do you want to change the **Fill** colour? Select the **Fill (Bucket)** tool and hover over your text. It will automatically change colour. Click on the text to make the change: ![The Fill (Bucket) tool.](images/from-me-fill-bucket.png){:width="150px"}
+Você quer alterar a cor de **Preencher**? Selecione a ferramenta **Preencher (Balde)** e passe o mouse sobre seu texto. Ele mudará a cor automaticamente. Clique no texto para fazer a alteração: ![The Fill (Bucket) tool.](images/from-me-fill-bucket.png){:width="150px"}
 
-If you want each word in your message to be a different colour, size, and font, then follow the process above for each word in your message.
+Se você deseja que cada palavra do seu texto tenha uma cor, tamanho e letra diferentes, siga o processo acima para cada palavra de sua mensagem.
 
-Position your text and/or group of words with the crosshair in the centre of the Paint editor: ![The crosshair.](images/from-me-paint-editor-centre.png){:width="400px"}
+Posicione seu texto e/ou grupo de palavras com a cruz no centro do editor Paint: ![The crosshair.](images/from-me-paint-editor-centre.png){:width="400px"}
 
-To layer your words, use the **Forward** and **Backward** tools: ![The Forward and Backward tools.](images/from-me-paint-editor-forward-backward.png){:width="400px"}
+Para colocar suas palavras em camadas, use as ferramentas **Pra Frente** e **Pra Trás**: ![The Forward and Backward tools.](images/from-me-paint-editor-forward-backward.png){:width="400px"}

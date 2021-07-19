@@ -1,16 +1,16 @@
-Klik op **Vulling** en selecteer de eerste kleur die je voor jouw tekst wilt gebruiken: ![The Fill colour menu showing sliders to control color, saturation and brightness.](images/from-me-fill-colour.png){:width="150px"}
+Click on the **Fill** colour chooser and select the colour that you want for your text: ![The Fill colour chooser menu showing sliders to control Color, Saturation, and Brightness.](images/from-me-fill-colour.png){:width="150px"}
 
 Klik op het **Tekst** gereedschap ![The Text tool.](images/from-me-text-tool.png){:width="150px"}
 
 Klik in het werkblad en begin met typen.
 
-Klik in de keuzelijst en selecteer het gewenste lettertype: ![The Font drop down menu showing the fonts available to use within Scratch.](images/from-me-text-font.png){:width="300px"}
+Click on the **Font** drop-down menu and select the font that you want: ![The Font drop-down menu showing the fonts available to use within Scratch.](images/from-me-text-font.png){:width="300px"}
 
-Klik op de **Selecteren (pijl)** en selecteer je tekst. Versleep de hoekgrepen om het formaat van je tekst te wijzigen: ![The Select (Arrow) tool and resize handles.](images/from-me-arrow-resize.png){:width="300px"}
+If you want to resize your text, click on the **Select** (Arrow) tool and select the text, then drag the corner handles to resize the text: ![The Select (Arrow) tool and resize handles.](images/from-me-arrow-resize.png){:width="300px"}
 
-Wil je de **Vulling** kleur wijzigen? Selecteer de **Vulling (emmer)** en plaats de muisaanwijzer op je tekst. De kleur zal automatisch veranderen. Klik op de tekst om de wijziging door te voeren: ![The Fill (Bucket) tool.](images/from-me-fill-bucket.png){:width="150px"}
+If you want to change the **Fill** colour of your text, use the **Fill** colour chooser to select a colour, then select the **Fill** (Bucket) tool and hold your mouse cursor over the text (or touch the text if you are using a tablet). The text will automatically change colour. Click on the text to make the change: ![The Fill (Bucket) tool.](images/from-me-fill-bucket.png){:width="150px"}
 
-Als je wilt dat elk woord in je bericht een andere kleur, grootte en lettertype heeft, doe je het bovenstaande voor elk woord in je bericht.
+If you want each word in a message to be a different colour, size, and font, follow the process above for each word in your message.
 
 Plaats je tekst en/of een groep woorden met het dradenkruis in het midden van je werkblad: ![The crosshair.](images/from-me-paint-editor-centre.png){:width="400px"}
 

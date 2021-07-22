@@ -12,7 +12,7 @@ Click on the **Font** drop-down menu and select the font that you want:
 If you want to resize your text, click on the **Select** (Arrow) tool and select the text, then drag the corner handles to resize the text:
 ![The Select (Arrow) tool and resize handles.](images/from-me-arrow-resize.png){:width="300px"}
 
-If you want to change the **Fill** colour of your text, use the **Fill** colour chooser to select a colour, then select the **Fill** (Bucket) tool and hold your mouse cursor over the text (or touch the text if you are using a tablet). The text will automatically change colour. Click on the text to make the change:
+If you want to change the **Fill** colour of your text, use the **Fill** colour chooser to select a colour, then select the **Fill** (Bucket) tool and hold your mouse cursor over the text (or if you are using a tablet, tap the text). The text will automatically change colour. Click on the text to make the change:
 ![The Fill (Bucket) tool.](images/from-me-fill-bucket.png){:width="150px"}
 
 If you want each word in a message to be a different colour, size, and font, follow the process above for each word in your message.

@@ -6,7 +6,7 @@ Select the **Text** tool:
 
 ![The Text tool.](images/from-me-text-tool.png){:width="150px"}
 
-Click on the Paint editor and start typing.
+Klik in het werkblad en begin met typen.
 
 Click on the **Font** drop-down menu and select the font that you want:
 
@@ -24,7 +24,7 @@ If you want each word in a message to be a different colour, size, and font, fol
 
 Position your text and/or group of words with the crosshair in the centre of the Paint editor:
 
-![The crosshair.](images/from-me-paint-editor-centre.png){:width="400px"}
+![Het dradenkruis.](images/from-me-paint-editor-centre.png){:width="400px"}
 
 To layer your words, use the **Forward** and **Backward** tools:
 

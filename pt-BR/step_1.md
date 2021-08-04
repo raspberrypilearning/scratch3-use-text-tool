@@ -20,7 +20,7 @@ If you want to change the **Fill** colour of your text, use the **Fill** colour 
 
 ![The Fill (Bucket) tool.](images/from-me-fill-bucket.png){:width="150px"}
 
-If you want each word in a message to be a different colour, size, and font, follow the process above for each word in your message.
+Se você deseja que cada palavra do seu texto tenha uma cor, tamanho e letra diferentes, siga o processo acima para cada palavra de sua mensagem.
 
 Position your text and/or group of words with the crosshair in the centre of the Paint editor:
 

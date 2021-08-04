@@ -6,7 +6,7 @@ Select the **Text** tool:
 
 ![The Text tool.](images/from-me-text-tool.png){:width="150px"}
 
-Click on the Paint editor and start typing.
+انقر فوق محرر الرسام وابدأ في الكتابة.
 
 Click on the **Font** drop-down menu and select the font that you want:
 
@@ -20,7 +20,7 @@ If you want to change the **Fill** colour of your text, use the **Fill** colour 
 
 ![The Fill (Bucket) tool.](images/from-me-fill-bucket.png){:width="150px"}
 
-If you want each word in a message to be a different colour, size, and font, follow the process above for each word in your message.
+إذا كنت تريد أن تكون كل كلمة في رسالتك بلون وحجم وخط مختلف ، فاتبع العملية المذكورة أعلاه لكل كلمة في رسالتك.
 
 Position your text and/or group of words with the crosshair in the centre of the Paint editor:
 

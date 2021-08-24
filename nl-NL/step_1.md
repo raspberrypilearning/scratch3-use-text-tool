@@ -1,31 +1,31 @@
-Click on the **Fill** colour chooser and select the colour that you want for your text:
+Klik op de **Vulling** kleurkiezer en selecteer de kleur die je wilt voor je tekst:
 
-![The Fill colour chooser menu showing sliders to control Color, Saturation, and Brightness.](images/from-me-fill-colour.png){:width="150px"}
+![Het menu Vulkleurkiezer met schuifregelaars om Kleur, Verzadiging en Helderheid te regelen.](images/from-me-fill-colour.png){:width="150px"}
 
-Select the **Text** tool:
+Selecteer het **Tekst** gereedschap:
 
-![The Text tool.](images/from-me-text-tool.png){:width="150px"}
+![Het Tekst gereedschap.](images/from-me-text-tool.png){:width="150px"}
 
 Klik in het werkblad en begin met typen.
 
-Click on the **Font** drop-down menu and select the font that you want:
+Klik op het **Lettertype** keuzemenu en selecteer het gewenste lettertype:
 
-![The Font drop-down menu showing the fonts available to use within Scratch.](images/from-me-text-font.png){:width="300px"}
+![Het vervolgkeuzemenu Lettertype met de lettertypen die beschikbaar zijn voor gebruik in Scratch.](images/from-me-text-font.png){:width="300px"}
 
-If you want to resize your text, click on the **Select** (Arrow) tool and select the text, then drag the corner handles to resize the text:
+Als je het formaat van je tekst wilt wijzigen, klik op **Selecteer** (pijl) en selecteer tekst, sleep vervolgens de hoekgrepen om het formaat van de tekst te wijzigen:
 
-![The Select (Arrow) tool and resize handles.](images/from-me-arrow-resize.png){:width="300px"}
+![Het gereedschap Selecteren (pijl) en formaatgrepen.](images/from-me-arrow-resize.png){:width="300px"}
 
-If you want to change the **Fill** colour of your text, use the **Fill** colour chooser to select a colour, then select the **Fill** (Bucket) tool and hold your mouse cursor over the text (or if you are using a tablet, tap the text). The text will automatically change colour. Click on the text to make the change:
+Als je de **Vulling** van je tekst wilt wijzigen, gebruik je de **Vulling** kleurkiezer om een kleur te selecteren, selecteer vervolgens het **Vulling** (emmer) gereedschap en houdt je muiscursor over de tekst (of als je een tablet hebt, tik je op de tekst). De kleur zal automatisch veranderen. Klik op de tekst om de wijziging door te voeren:
 
-![The Fill (Bucket) tool.](images/from-me-fill-bucket.png){:width="150px"}
+![Het gereedschap Vullen (emmer).](images/from-me-fill-bucket.png){:width="150px"}
 
-If you want each word in a message to be a different colour, size, and font, follow the process above for each word in your message.
+Als je wilt dat elk woord in je bericht een andere kleur, grootte en lettertype heeft, doe je het bovenstaande voor elk woord in je bericht.
 
-Position your text and/or group of words with the crosshair in the centre of the Paint editor:
+Plaats je tekst en/of woordgroep met het dradenkruis in het midden van de Paint editor:
 
 ![Het dradenkruis.](images/from-me-paint-editor-centre.png){:width="400px"}
 
-To layer your words, use the **Forward** and **Backward** tools:
+Gebruik de gereedschappen **Naar voren** en **Naar achteren** om je woorden te stapelen:
 
-![The Forward and Backward tools.](images/from-me-paint-editor-forward-backward.png){:width="400px"}
+![De Naar voren en Naar achteren gereedschappen in de Teken editor.](images/from-me-paint-editor-forward-backward.png){:width="400px"}

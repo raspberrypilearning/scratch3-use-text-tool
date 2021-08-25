@@ -1,31 +1,31 @@
-Click on the **Fill** colour chooser and select the colour that you want for your text:
+**塗りつぶし** カラーチューザーをクリックして、テキストに使用する色を選択します。
 
-![The Fill colour chooser menu showing sliders to control Color, Saturation, and Brightness.](images/from-me-fill-colour.png){:width="150px"}
+![塗りつぶしカラーチューザーメニューは、色、彩度、明るさを制御するスライダーを表示する。](images/from-me-fill-colour.png){:width="150px"}
 
-Select the **Text** tool:
+**テキスト** ツールを選択します。
 
-![The Text tool.](images/from-me-text-tool.png){:width="150px"}
+![テキストツール。](images/from-me-text-tool.png){:width="150px"}
 
-Click on the Paint editor and start typing.
+ペイントエディタをクリックして、入力を開始します。
 
-Click on the **Font** drop-down menu and select the font that you want:
+**フォント** ドロップダウンメニューをクリックして、使用したいフォントを選択します。
 
-![The Font drop-down menu showing the fonts available to use within Scratch.](images/from-me-text-font.png){:width="300px"}
+![Scratch内で使用できるフォントを表示するフォントドロップダウンメニュー。](images/from-me-text-font.png){:width="300px"}
 
-If you want to resize your text, click on the **Select** (Arrow) tool and select the text, then drag the corner handles to resize the text:
+テキストのサイズを変更する場合は、 **選択** （矢印）ツールをクリックしてテキストを選択し、コーナーハンドルをドラッグしてテキストのサイズを変更します。
 
-![The Select (Arrow) tool and resize handles.](images/from-me-arrow-resize.png){:width="300px"}
+![選択（矢印）ツールとサイズ変更ハンドル。](images/from-me-arrow-resize.png){:width="300px"}
 
-If you want to change the **Fill** colour of your text, use the **Fill** colour chooser to select a colour, then select the **Fill** (Bucket) tool and hold your mouse cursor over the text (or if you are using a tablet, tap the text). The text will automatically change colour. Click on the text to make the change:
+文字の**塗りつぶし** 色を変更する場合は、 **塗りつぶし** カラーチューザーを使用して色を選択し、 **塗りつぶし** （バケツ）ツールを選択して、テキストの上にマウスカーソルを置きます（または、タブレットを使用している場合はテキストをタップします）。 テキストは自動的に色が変わります。 テキストをクリックして変更を加えます。
 
-![The Fill (Bucket) tool.](images/from-me-fill-bucket.png){:width="150px"}
+![塗りつぶし（バケツ）ツール。](images/from-me-fill-bucket.png){:width="150px"}
 
 一文字づつ色や大きさ、フォントを変えたい時は、一文字づつ同じステップをくりかえします。
 
-Position your text and/or group of words with the crosshair in the centre of the Paint editor:
+ペイントエディタの中央にある十字線を基準にして、テキストや文章を配置します。
 
-![The crosshair.](images/from-me-paint-editor-centre.png){:width="400px"}
+![十字線。](images/from-me-paint-editor-centre.png){:width="400px"}
 
-To layer your words, use the **Forward** and **Backward** tools:
+テキストの前後（手前・奥）を調整するには、**手前に出す** や**奥に下げる** ツールを使用します。：
 
-![The Forward and Backward tools.](images/from-me-paint-editor-forward-backward.png){:width="400px"}
+![手前に出すと奥に下げるツール。](images/from-me-paint-editor-forward-backward.png){:width="400px"}

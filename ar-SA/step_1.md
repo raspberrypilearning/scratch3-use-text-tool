@@ -1,8 +1,8 @@
-Click on the **Fill** colour chooser and select the colour that you want for your text:
+انقر فوق **ملء** وحدد اللون الذي تريده للنص الخاص بك:
 
 ![The Fill colour chooser menu showing sliders to control Color, Saturation, and Brightness.](images/from-me-fill-colour.png){:width="150px"}
 
-Select the **Text** tool:
+حدد أداة **نص**:
 
 ![The Text tool.](images/from-me-text-tool.png){:width="150px"}
 

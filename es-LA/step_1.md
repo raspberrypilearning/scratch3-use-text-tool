@@ -1,14 +1,14 @@
-Click on the **Fill** colour chooser and select the colour that you want for your text:
+Haz clic en el selector de color **Rellenar** y selecciona el color que deseas para tu texto:
 
 ![The Fill colour chooser menu showing sliders to control Color, Saturation, and Brightness.](images/from-me-fill-colour.png){:width="150px"}
 
-Select the **Text** tool:
+Selecciona la herramienta **Texto**:
 
 ![The Text tool.](images/from-me-text-tool.png){:width="150px"}
 
 Click on the Paint editor and start typing.
 
-Click on the **Font** drop-down menu and select the font that you want:
+Haz clic en el menú desplegable **Fuente** y selecciona la fuente que desee:
 
 ![The Font drop-down menu showing the fonts available to use within Scratch.](images/from-me-text-font.png){:width="300px"}
 

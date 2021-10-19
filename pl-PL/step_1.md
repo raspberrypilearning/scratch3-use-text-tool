@@ -24,7 +24,7 @@ If you want each word in a message to be a different colour, size, and font, fol
 
 Position your text and/or group of words with the crosshair in the centre of the Paint editor:
 
-![The crosshair.](images/from-me-paint-editor-centre.png){:width="400px"}
+![Celownik.](images/from-me-paint-editor-centre.png){:width="400px"}
 
 To layer your words, use the **Forward** and **Backward** tools:
 

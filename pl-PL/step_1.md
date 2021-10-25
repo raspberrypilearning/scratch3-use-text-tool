@@ -14,7 +14,7 @@ Kliknij na rozwijanym menu **Czcionka** i wybierz żądaną czcionkę:
 
 Jeśli chcesz zmienić rozmiar tekstu, kliknij narzędzie **Wybierz** (strzałka) i zaznacz tekst, a następnie przeciągnij narożniki, aby zmienić rozmiar tekstu:
 
-![Narzędzie Wybierz (strzałka) i zmień rozmiar uchwytów.](images/from-me-arrow-resize.png){:width="300px"}
+![Narzędzie Wybierz (strzałka) i uchwyty do zmiany rozmiarów.](images/from-me-arrow-resize.png){:width="300px"}
 
 Jeśli chcesz zmienić **Wypełnienie** (kolor) w tekście, użyj **Wypełnij** aby wybrać kolor, a następnie wybierz narzędzie **Wypełnij** (Wiaderko) i przytrzymaj kursor myszy nad tekstem (lub jeśli używasz tablet, dotknij tekstu). Tekst automatycznie zmieni kolor. Kliknij tekst, aby dokonać zmiany:
 

@@ -20,11 +20,11 @@ If you want to change the **Fill** colour of your text, use the **Fill** colour 
 
 ![The Fill (Bucket) tool.](images/from-me-fill-bucket.png){:width="150px"}
 
-Se você deseja que cada palavra do seu texto tenha uma cor, tamanho e letra diferentes, siga o processo acima para cada palavra de sua mensagem.
+If you want each word in a message to be a different colour, size, and font, follow the process above for each word in your message.
 
 Position your text and/or group of words with the crosshair in the centre of the Paint editor:
 
-![The crosshair.](images/from-me-paint-editor-centre.png){:width="400px"}
+![A cruz.](images/from-me-paint-editor-centre.png){:width="400px"}
 
 To layer your words, use the **Forward** and **Backward** tools:
 

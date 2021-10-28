@@ -6,7 +6,7 @@ Select the **Text** tool:
 
 ![The Text tool.](images/from-me-text-tool.png){:width="150px"}
 
-Click on the Paint editor and start typing.
+Clique no editor Paint e comece a digitar.
 
 Click on the **Font** drop-down menu and select the font that you want:
 

@@ -26,7 +26,7 @@ Posicione seu texto e/ou grupo de palavras com a cruz no centro do editor do Pai
 
 ![A cruz.](images/from-me-paint-editor-centre.png){:width="400px"}
 
-Para colocar suas palavras em camadas, use as ferramentas **Adelante** e **Atrás**:
+Para colocar suas palavras em camadas, use as ferramentas **Pra frente** e **Pra Trás**:
 
 ![Ferramentas avançar e voltar.](images/from-me-paint-editor-forward-backward.png){:width="400px"}
 

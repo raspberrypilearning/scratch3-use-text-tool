@@ -1,31 +1,31 @@
-Click on the **Fill** colour chooser and select the colour that you want for your text:
+Cliciwch ar y detholydd lliwiau **Llenwi** a dewiswch y lliw rydych chi ei eisiau ar gyfer eich testun:
 
-![The Fill colour chooser menu showing sliders to control Color, Saturation, and Brightness.](images/from-me-fill-colour.png){:width="150px"}
+![Mae'r dewislen Dewisydd Lliw i Lenwil yn dangos llithryddion i reoli Lliw, Dirlawnder a Disgleirdeb.](images/from-me-fill-colour.png){:width="150px"}
 
-Select the **Text** tool:
+Dewiswch yr offeryn **Testun**:
 
-![The Text tool.](images/from-me-text-tool.png){:width="150px"}
+![Yr Offeryn Testun.](images/from-me-text-tool.png){:width="150px"}
 
-Click on the Paint editor and start typing.
+Cliciwch ar y golygydd Paint a dechrau teipio.
 
-Click on the **Font** drop-down menu and select the font that you want:
+Cliciwch ar y gwymplen **Ffont** a dewiswch y ffont rydych chi ei eisiau:
 
-![The Font drop-down menu showing the fonts available to use within Scratch.](images/from-me-text-font.png){:width="300px"}
+![Mae'r gwymplen Ffont yn dangos y ffontiau sydd ar gael i'w defnyddio o fewn Scratch.](images/from-me-text-font.png){:width="300px"}
 
-If you want to resize your text, click on the **Select** (Arrow) tool and select the text, then drag the corner handles to resize the text:
+Os ydych chi am newid maint eich testun, cliciwch ar yr offeryn **Dewiswch** (Saith) a dewiswch y testun, yna llusgwch y dolenni cornel i newid maint y testun:
 
-![The Select (Arrow) tool and resize handles.](images/from-me-arrow-resize.png){:width="300px"}
+![Yr offeryn Dewis (Saith) a dolenni newid maint.](images/from-me-arrow-resize.png){:width="300px"}
 
-If you want to change the **Fill** colour of your text, use the **Fill** colour chooser to select a colour, then select the **Fill** (Bucket) tool and hold your mouse cursor over the text (or if you are using a tablet, tap the text). The text will automatically change colour. Click on the text to make the change:
+Os ydych am newid lliw **Llenwi** eich testun, defnyddiwch y detholydd lliw **Llenwil** i ddewis lliw, yna dewiswch yr offeryn **Llenwil** (Bwced) a daliwch gyrchwr eich llygoden dros y testun (neu os ydych yn defnyddio tabled, tapiwch y testun). Bydd y testun yn newid lliw yn awtomatig. Cliciwch ar y testun i wneud y newidiad:
 
-![The Fill (Bucket) tool.](images/from-me-fill-bucket.png){:width="150px"}
+![Yr offeryn Llenwi (Bwced).](images/from-me-fill-bucket.png){:width="150px"}
 
-If you want each word in a message to be a different colour, size, and font, follow the process above for each word in your message.
+Os ydych chi am i bob gair yn eich neges fod yn lliw, maint a ffont gwahanol, yna dilynwch y broses uchod ar gyfer pob gair yn eich neges.
 
-Position your text and/or group of words with the crosshair in the centre of the Paint editor:
+Gosodwch eich testun a/neu grŵp o eiriau gyda'r croeswallt yng nghanol y golygydd Paint:
 
-![The crosshair.](images/from-me-paint-editor-centre.png){:width="400px"}
+![Y groeswallt.](images/from-me-paint-editor-centre.png){:width="400px"}
 
-To layer your words, use the **Forward** and **Backward** tools:
+I haenu eich geiriau, defnyddiwch yr offeryn **Ymlaen** ac **Yn ôl**:
 
-![The Forward and Backward tools.](images/from-me-paint-editor-forward-backward.png){:width="400px"}
+![Yr offer Ymlaen ac Yn ôl.](images/from-me-paint-editor-forward-backward.png){:width="400px"}

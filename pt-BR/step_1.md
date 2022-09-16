@@ -1,4 +1,4 @@
-Click no seletor de cor **Preencher** e selecione a cor que você deseja para seu texto:
+Clique no seletor de cor **Preencher** e selecione a cor que você deseja para seu texto:
 
 ![O menu seletor de cor de preenchimento mostrando controles deslizantes para controlar Cor, Saturação e Brilho.](images/from-me-fill-colour.png){:width="150px"}
 

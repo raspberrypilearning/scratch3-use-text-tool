@@ -1,31 +1,31 @@
-Click on the **Fill** colour chooser and select the colour that you want for your text:
+Klicka på **Fyll** färgväljaren och välj den färg du vill ha på din text:
 
-![The Fill colour chooser menu showing sliders to control Color, Saturation, and Brightness.](images/from-me-fill-colour.png){:width="150px"}
+![Menyn fyllningsfärgsväljare som visar reglage för att styra färg, mättnad och ljusstyrka.](images/from-me-fill-colour.png){:width="150px"}
 
-Select the **Text** tool:
+Välj **Text**verktyget:
 
-![The Text tool.](images/from-me-text-tool.png){:width="150px"}
+![Textverktyget.](images/from-me-text-tool.png){:width="150px"}
 
-Click on the Paint editor and start typing.
+Klicka på målarredigeraren och börja skriva.
 
-Click on the **Font** drop-down menu and select the font that you want:
+Klicka på rullgardinsmenyn **Teckensnitt** och välj det teckensnitt du vill ha:
 
-![The Font drop-down menu showing the fonts available to use within Scratch.](images/from-me-text-font.png){:width="300px"}
+![Rullgardinsmenyn teckensnitt som visar de teckensnitt som är tillgängliga för användning inom Scratch.](images/from-me-text-font.png){:width="300px"}
 
-If you want to resize your text, click on the **Select** (Arrow) tool and select the text, then drag the corner handles to resize the text:
+Om du vill ändra storlek på din text klickar du på verktyget **Välj** (pil), markerar texten och drar sedan i hörnhandtagen för att ändra storlek på texten:
 
-![The Select (Arrow) tool and resize handles.](images/from-me-arrow-resize.png){:width="300px"}
+![Markeringsverktyget (pil) och ändra storlekshandtagen.](images/from-me-arrow-resize.png){:width="300px"}
 
-If you want to change the **Fill** colour of your text, use the **Fill** colour chooser to select a colour, then select the **Fill** (Bucket) tool and hold your mouse cursor over the text (or if you are using a tablet, tap the text). The text will automatically change colour. Click on the text to make the change:
+Om du vill ändra **Fyll**färgen i din text, använd **Fyll**färgväljaren för att välja en färg, välj sedan **Fyll**verktyget (hink) och håll muspekaren över texten (eller om du använder en surfplatta, tryck på texten). Texten kommer automatiskt att ändra färg. Klicka på texten för att göra ändringen:
 
-![The Fill (Bucket) tool.](images/from-me-fill-bucket.png){:width="150px"}
+![Fyllverktyget (hinken).](images/from-me-fill-bucket.png){:width="150px"}
 
-If you want each word in a message to be a different colour, size, and font, follow the process above for each word in your message.
+Om du vill att varje ord i ett meddelande ska ha olika färg, storlek och typsnitt, följ processen ovan för varje ord i ditt meddelande.
 
-Position your text and/or group of words with the crosshair in the centre of the Paint editor:
+Placera din text och/eller grupp av ord med hårkorset i mitten av målarredigeraren:
 
-![The crosshair.](images/from-me-paint-editor-centre.png){:width="400px"}
+![Hårkorset.](images/from-me-paint-editor-centre.png){:width="400px"}
 
-To layer your words, use the **Forward** and **Backward** tools:
+För att placera orden i olika lager, använd verktygen **Framåt** och **Bakåt**:
 
-![The Forward and Backward tools.](images/from-me-paint-editor-forward-backward.png){:width="400px"}
+![Verktygen Framåt och Bakåt.](images/from-me-paint-editor-forward-backward.png){:width="400px"}

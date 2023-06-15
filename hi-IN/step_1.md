@@ -1,31 +1,31 @@
-Click on the **Fill** colour chooser and select the colour that you want for your text:
+**भरें** रंग चयनकर्ता पर क्लिक करें और अपने पाठ के लिए इच्छित रंग का चयन करें:
 
-![The Fill colour chooser menu showing sliders to control Color, Saturation, and Brightness.](images/from-me-fill-colour.png){:width="150px"}
+![रंग, संतृप्ति और चमक को नियंत्रित करने के लिए स्लाइडर दिखाने वाला चयनकर्ता मेनू।](images/from-me-fill-colour.png){:width="150px"}
 
-Select the **Text** tool:
+**टेक्स्ट** उपकरण चुनें:
 
-![The Text tool.](images/from-me-text-tool.png){:width="150px"}
+![टेक्स्ट उपकरण](images/from-me-text-tool.png){:width="150px"}
 
-Click on the Paint editor and start typing.
+पेंट एडिटर पर क्लिक करें और टाइप करना शुरू करें।
 
-Click on the **Font** drop-down menu and select the font that you want:
+**फ़ॉन्ट** ड्रॉप-डाउन विषय-सूची पर क्लिक करें और इच्छित फ़ॉन्ट चुनें:
 
-![The Font drop-down menu showing the fonts available to use within Scratch.](images/from-me-text-font.png){:width="300px"}
+![स्क्रैच मे उपयोग करने के लिए उपलब्ध फोंट दिखाने वाला फ़ॉन्ट ड्रॉप-डाउन मेनू।](images/from-me-text-font.png){:width="300px"}
 
-If you want to resize your text, click on the **Select** (Arrow) tool and select the text, then drag the corner handles to resize the text:
+यदि आप अपने टेक्स्ट का आकार बदलना चाहते हैं, तो **सेलेक्ट** (मे) उपकरण पर क्लिक करें और टेक्स्ट का चयन करें, फिर टेक्स्ट का आकार बदलने के लिए कोने के हैंडल को खींचें:
 
-![The Select (Arrow) tool and resize handles.](images/from-me-arrow-resize.png){:width="300px"}
+![चयन (तीर) और हैंडल का आकार बदलने के उपकरण।](images/from-me-arrow-resize.png){:width="300px"}
 
-If you want to change the **Fill** colour of your text, use the **Fill** colour chooser to select a colour, then select the **Fill** (Bucket) tool and hold your mouse cursor over the text (or if you are using a tablet, tap the text). The text will automatically change colour. Click on the text to make the change:
+यदि आप अपने टेक्स्ट का **भरण** रंग बदलना चाहते हैं, तो रंग चुनने के लिए **भरण** रंग चयनकर्ता का उपयोग करें, फिर **भरण** (बाल्टी) टूल का चयन करें और टेक्स्ट पर अपना माउस कर्सर रखें (या यदि आप टैबलेट उपयोग कर रहे तो टेक्स्ट पर टैप करें)। टेक्स्ट का रंगअपने आप बदल जाएगा। परिवर्तन करने के लिए टेक्स्ट पर क्लिक करें:
 
-![The Fill (Bucket) tool.](images/from-me-fill-bucket.png){:width="150px"}
+![भरण (बाल्टी) उपकरण।](images/from-me-fill-bucket.png){:width="150px"}
 
-If you want each word in a message to be a different colour, size, and font, follow the process above for each word in your message.
+यदि आप चाहते हैं कि संदेश में प्रत्येक शब्द एक अलग रंग, आकार और फ़ॉन्ट हो, तो अपने संदेश में प्रत्येक शब्द के लिए उपरोक्त प्रक्रिया का पालन करें।
 
-Position your text and/or group of words with the crosshair in the centre of the Paint editor:
+अपने पाठ और/या शब्दों के समूह को क्रॉसहेयर के साथ पेंट संपादक के केंद्र में रखें:
 
-![The crosshair.](images/from-me-paint-editor-centre.png){:width="400px"}
+![क्रॉसहेयर।](images/from-me-paint-editor-centre.png){:width="400px"}
 
-To layer your words, use the **Forward** and **Backward** tools:
+अपने शब्दों को स्तरित करने के लिए, **आगे** और **पीछे** उपकरण का उपयोग करें:
 
-![The Forward and Backward tools.](images/from-me-paint-editor-forward-backward.png){:width="400px"}
+![फॉरवर्ड और बैकवर्ड टूल्स।](images/from-me-paint-editor-forward-backward.png){:width="400px"}

@@ -1,31 +1,31 @@
-Click on the **Fill** colour chooser and select the colour that you want for your text:
+Klicke auf **Füllfarbe** und wähle die gewünschte Farbe für deinen Text aus:
 
-![The Fill colour chooser menu showing sliders to control Color, Saturation, and Brightness.](images/from-me-fill-colour.png){:width="150px"}
+![Das Füllfarben-Auswahlmenü zeigt Schieberegler zur Steuerung von Farbe, Sättigung und Helligkeit.](images/from-me-fill-colour.png){:width="150px"}
 
-Select the **Text** tool:
+Wähle das **Text**-Werkzeug:
 
-![The Text tool.](images/from-me-text-tool.png){:width="150px"}
+![Das Text-Werkzeug.](images/from-me-text-tool.png){:width="150px"}
 
-Click on the Paint editor and start typing.
+Klicke auf den Zeicheneditor und beginne mit der Texteingabe.
 
-Click on the **Font** drop-down menu and select the font that you want:
+Klicke auf das Dropdown-Menü **Schriftart** und wähle die gewünschte Schriftart aus:
 
-![The Font drop-down menu showing the fonts available to use within Scratch.](images/from-me-text-font.png){:width="300px"}
+![Das Dropdown-Menü Schriftart zeigt die in Scratch verfügbaren Schriftarten.](images/from-me-text-font.png){:width="300px"}
 
-If you want to resize your text, click on the **Select** (Arrow) tool and select the text, then drag the corner handles to resize the text:
+Wenn du die Größe deines Textes ändern möchtest, klicke auf das **Auswählen**-Werkzeug (Pfeil) und wähle den Text aus, dann ziehe die Eckpunkte, um die Textgröße zu ändern:
 
-![The Select (Arrow) tool and resize handles.](images/from-me-arrow-resize.png){:width="300px"}
+![Das Auswählen-Werkzeug (Pfeil) und die Griffpunkte zur Änderung der Größe.](images/from-me-arrow-resize.png){:width="300px"}
 
-If you want to change the **Fill** colour of your text, use the **Fill** colour chooser to select a colour, then select the **Fill** (Bucket) tool and hold your mouse cursor over the text (or if you are using a tablet, tap the text). The text will automatically change colour. Click on the text to make the change:
+Wenn du die **Füllfarbe** deines Textes ändern möchtest, nutze das Farbauswahlfeld **Füllfarbe**, um eine Farbe auszuwählen. Wähle dann das **Fülleimer**-Werkzeug (Eimer) und halte den Mauszeiger über den Text (Wenn du ein Tablet verwendest, tippe auf den Text). Der Text ändert automatisch seine Farbe. Klicke auf den Text, um die Änderung vorzunehmen:
 
-![The Fill (Bucket) tool.](images/from-me-fill-bucket.png){:width="150px"}
+![Das Fülleimer-Werkzeug (Eimer).](images/from-me-fill-bucket.png){:width="150px"}
 
-If you want each word in a message to be a different colour, size, and font, follow the process above for each word in your message.
+Wenn du möchtest, dass jedes Wort einer Nachricht eine andere Farbe, Größe und Schriftart hat, befolge die oben beschriebenen Schritte für jedes Wort in deiner Nachricht.
 
-Position your text and/or group of words with the crosshair in the centre of the Paint editor:
+Positioniere deinen Text bzw. deine Wortgruppe mit dem Fadenkreuz in der Mitte des Zeicheneditors:
 
-![The crosshair.](images/from-me-paint-editor-centre.png){:width="400px"}
+![Das Fadenkreuz.](images/from-me-paint-editor-centre.png){:width="400px"}
 
-To layer your words, use the **Forward** and **Backward** tools:
+Um die Reihenfolge zu ändern, in der deine Wörter sich überlagern, verwende die Werkzeuge **Nach Vorne** und **Nach Hinten**:
 
-![The Forward and Backward tools.](images/from-me-paint-editor-forward-backward.png){:width="400px"}
+![Die „Nach Vorne“ und „Nach Hinten“ Werkzeuge.](images/from-me-paint-editor-forward-backward.png){:width="400px"}
